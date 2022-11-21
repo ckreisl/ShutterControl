@@ -1,0 +1,4 @@
+RPi.GPIO
+astral
+telepot
+urllib3
